@@ -12,6 +12,7 @@ you can also create vagrant box with root disk of standard partition( Linux part
 At the time running please check iso_url is working.
 
 packer build debian-9-stretch-virtualbox.json
+
 vagrant box add .....
 
 Reference - We have used below repo to build debian 9
